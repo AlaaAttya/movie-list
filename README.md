@@ -9,3 +9,4 @@ My movie list to be watched
 - [ ] Equalizer
 - [x] The fault in our stars
 - [ ] The interview
+- [x] Transcendence
