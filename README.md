@@ -10,3 +10,4 @@ My movie list to be watched
 - [x] The fault in our stars
 - [ ] The interview
 - [x] Transcendence
+- [ ] The theory of everything
