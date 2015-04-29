@@ -11,3 +11,4 @@ My movie list to be watched
 - [ ] The interview
 - [x] Transcendence
 - [x] The theory of everything
+- [x] Life of pi
